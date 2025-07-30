@@ -3,5 +3,6 @@
 - Real-time updates
 - Simple, compact
 
+Notes:
 - For sound to work, you need to have pygame
 - Default sound is provided in assets but you can also use your own
