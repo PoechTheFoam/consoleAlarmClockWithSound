@@ -2,7 +2,7 @@ import pygame
 import datetime
 import time
 def set_alarm(alarm_time):
-    sound="assets/Circuit Rush - The Mini Vandals.mp3"
+    sound="assets/Circuit Rush - The Mini Vandals.mp3" # you can also provide your own sound here
     print(f'Alarm set for {alarm_time}')
     while True:
         present = datetime.datetime.now().strftime("%H:%M:%S")
