@@ -2,3 +2,4 @@
 - Uses military time
 - Real-time updates
 - Simple, compact
+- Sound features might not work on your device
