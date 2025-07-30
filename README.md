@@ -4,4 +4,4 @@
 - Simple, compact
 
 !! For sound to work, you need to have pygame
-!! Default sound is provided in assets but you can also use your own
+! Default sound is provided in assets but you can also use your own
